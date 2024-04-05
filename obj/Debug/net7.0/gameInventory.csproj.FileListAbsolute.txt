@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/gameInventory/bin/Debug/net7.0/gameInventory
+/Users/tylerbreithaupt/Desktop/CIT195/gameInventory/bin/Debug/net7.0/gameInventory.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/gameInventory/bin/Debug/net7.0/gameInventory.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/gameInventory/bin/Debug/net7.0/gameInventory.dll
+/Users/tylerbreithaupt/Desktop/CIT195/gameInventory/bin/Debug/net7.0/gameInventory.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/gameInventory/obj/Debug/net7.0/gameInventory.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/gameInventory/obj/Debug/net7.0/gameInventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/gameInventory/obj/Debug/net7.0/gameInventory.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/gameInventory/obj/Debug/net7.0/gameInventory.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/gameInventory/obj/Debug/net7.0/gameInventory.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/gameInventory/obj/Debug/net7.0/gameInventory.dll
+/Users/tylerbreithaupt/Desktop/CIT195/gameInventory/obj/Debug/net7.0/refint/gameInventory.dll
+/Users/tylerbreithaupt/Desktop/CIT195/gameInventory/obj/Debug/net7.0/gameInventory.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/gameInventory/obj/Debug/net7.0/gameInventory.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/gameInventory/obj/Debug/net7.0/ref/gameInventory.dll
